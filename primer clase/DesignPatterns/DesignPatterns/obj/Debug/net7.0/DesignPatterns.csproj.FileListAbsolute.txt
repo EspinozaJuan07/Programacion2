@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.exe
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.deps.json
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.runtimeconfig.json
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.dll
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\bin\Debug\net7.0\DesignPatterns.pdb
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.dll
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\refint\DesignPatterns.dll
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.pdb
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\DesignPatterns.genruntimeconfig.cache
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\obj\Debug\net7.0\ref\DesignPatterns.dll
+C:\Users\LABORATORIO 3\Downloads\primer clase\DesignPatterns\DesignPatterns\bin\Debug\net7.0\archivo.txt
