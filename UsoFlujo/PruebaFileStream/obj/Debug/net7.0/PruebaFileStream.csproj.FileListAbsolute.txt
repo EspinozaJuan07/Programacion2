@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\bin\Debug\net7.0\PruebaFileStream.exe
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\bin\Debug\net7.0\PruebaFileStream.deps.json
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\bin\Debug\net7.0\PruebaFileStream.runtimeconfig.json
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\bin\Debug\net7.0\PruebaFileStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\bin\Debug\net7.0\PruebaFileStream.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\refint\PruebaFileStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\PruebaFileStream.genruntimeconfig.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\obj\Debug\net7.0\ref\PruebaFileStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoFlujo\PruebaFileStream\bin\Debug\net7.0\Clientes.txt

@@ -1,0 +1,15 @@
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\bin\Debug\net7.0\UsoBufferedStream.exe
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\bin\Debug\net7.0\UsoBufferedStream.deps.json
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\bin\Debug\net7.0\UsoBufferedStream.runtimeconfig.json
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\bin\Debug\net7.0\UsoBufferedStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\bin\Debug\net7.0\UsoBufferedStream.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\refint\UsoBufferedStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\UsoBufferedStream.genruntimeconfig.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\UsoBufferedStream\UsoBufferedStream\obj\Debug\net7.0\ref\UsoBufferedStream.dll

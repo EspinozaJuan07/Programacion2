@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\bin\Debug\net7.0\PruebaMemoryStream.exe
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\bin\Debug\net7.0\PruebaMemoryStream.deps.json
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\bin\Debug\net7.0\PruebaMemoryStream.runtimeconfig.json
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\bin\Debug\net7.0\PruebaMemoryStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\bin\Debug\net7.0\PruebaMemoryStream.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\refint\PruebaMemoryStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\PruebaMemoryStream.genruntimeconfig.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\obj\Debug\net7.0\ref\PruebaMemoryStream.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\PruebaMemoryStream\PruebaMemoryStream\bin\Debug\net7.0\clientes.txt
