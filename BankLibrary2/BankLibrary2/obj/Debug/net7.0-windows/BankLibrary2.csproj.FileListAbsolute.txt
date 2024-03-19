@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\bin\Debug\net7.0-windows\BankLibrary2.deps.json
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\bin\Debug\net7.0-windows\BankLibrary2.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\bin\Debug\net7.0-windows\BankLibrary2.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.BankUIForm.resources
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.csproj.GenerateResource.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\refint\BankLibrary2.dll
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\BankLibrary2.pdb
+C:\Users\LABORATORIO 3\Desktop\Dia2\BankLibrary2\BankLibrary2\obj\Debug\net7.0-windows\ref\BankLibrary2.dll
