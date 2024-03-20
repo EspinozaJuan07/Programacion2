@@ -1,0 +1,15 @@
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\bin\Debug\net7.0\UsoAdaptadores.exe
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\bin\Debug\net7.0\UsoAdaptadores.deps.json
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\bin\Debug\net7.0\UsoAdaptadores.runtimeconfig.json
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\bin\Debug\net7.0\UsoAdaptadores.dll
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\bin\Debug\net7.0\UsoAdaptadores.pdb
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.dll
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\refint\UsoAdaptadores.dll
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.pdb
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\UsoAdaptadores.genruntimeconfig.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\UsoAdaptadores\UsoAdaptadores\obj\Debug\net7.0\ref\UsoAdaptadores.dll
