@@ -1,0 +1,15 @@
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\bin\Debug\net7.0\BinaryAdapter.exe
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\bin\Debug\net7.0\BinaryAdapter.deps.json
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\bin\Debug\net7.0\BinaryAdapter.runtimeconfig.json
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\bin\Debug\net7.0\BinaryAdapter.dll
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\bin\Debug\net7.0\BinaryAdapter.pdb
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.dll
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\refint\BinaryAdapter.dll
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.pdb
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\BinaryAdapter.genruntimeconfig.cache
+C:\Users\LABORATORIO 3\Desktop\nuevo_CSharp\BinaryAdapter\BinaryAdapter\obj\Debug\net7.0\ref\BinaryAdapter.dll
