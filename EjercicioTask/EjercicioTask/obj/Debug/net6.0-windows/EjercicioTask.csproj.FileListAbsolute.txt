@@ -1,0 +1,17 @@
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\bin\Debug\net6.0-windows\EjercicioTask.exe
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\bin\Debug\net6.0-windows\EjercicioTask.deps.json
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\bin\Debug\net6.0-windows\EjercicioTask.runtimeconfig.json
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\bin\Debug\net6.0-windows\EjercicioTask.dll
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\bin\Debug\net6.0-windows\EjercicioTask.pdb
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.csproj.AssemblyReference.cache
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.Form1.resources
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.csproj.GenerateResource.cache
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.AssemblyInfoInputs.cache
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.AssemblyInfo.cs
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.csproj.CoreCompileInputs.cache
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.dll
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\refint\EjercicioTask.dll
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.pdb
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\EjercicioTask.genruntimeconfig.cache
+C:\Users\JADPA30\Documents\Azazel\EjercicioTask\EjercicioTask\obj\Debug\net6.0-windows\ref\EjercicioTask.dll
