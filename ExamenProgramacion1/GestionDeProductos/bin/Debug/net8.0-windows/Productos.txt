@@ -1,0 +1,14 @@
+[
+  {
+    "Cantidad": 7,
+    "Name": "Gaseosa",
+    "Price": 24.0,
+    "Total": 168.0
+  },
+  {
+    "Cantidad": 3,
+    "Name": "Leche",
+    "Price": 36.0,
+    "Total": 108.0
+  }
+]
